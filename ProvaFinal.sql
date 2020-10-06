@@ -46,4 +46,4 @@ GROUP BY d.nome;
 /* ITEM E:
 Crie um comando para excluir o funcionário Francisco José, usando sua chave primária
 */
-DELETE FROM departamento WHERE codigo = 5;
+DELETE FROM funcionario WHERE codigo = 5;
